@@ -19,7 +19,7 @@ GRANT EXECUTE ON *.* TO 'TheTubeAPI'@'localhost';
 
 Adesso che abbiamo configurato tutto, apriamo una finestra di PowerShell o Bash per eseguire lo script python `The_Tube.py`
 
-> Se non si possiedono i moduli mysql-connector, rsa sarà necessario installarli con pip
+> Se non si possiedono i moduli `mysql-connector`, `rsa sarà necessario installarli con pip
 
 ```pip
 pip install rsa;
