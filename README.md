@@ -1,4 +1,4 @@
-# TheTube: Messaggistica Terminal Criptata End-to-End
+# TheTube: Messaggistica Criptata End-to-End per Terminale
 
 Benvenuto in TheTube, la soluzione di messaggistica avanzata per il tuo terminale. La sicurezza è la priorità:
 
