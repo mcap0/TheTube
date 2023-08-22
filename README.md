@@ -13,7 +13,7 @@ Benvenuto in TheTube, la soluzione di messaggistica criptata per il tuo terminal
 - **Autenticazione Forte**: La private key salvata solo nel tuo computer garantisce l'autenticità e l'integrità dei messaggi.
 
 - **Semplice Integrazione**: Client Python per operazioni di crittografia e decrittografia senza sforzo.
-- 
+
 Sii padrone della tua privacy su TheTube, dove la comunicazione diventa sicura e confidenziale come dovrebbe essere.
 
 ## Installazione
