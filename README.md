@@ -1,5 +1,14 @@
-## Info
-Si vuole progettare la base di dati necessaria a supportare una piattaforma di messaggistica criptata tramite database relazionale. Le scelte di implementazione sono incentrate sulla sicurezza. La piattaforma e le sue funzioni sono basate sui bisogni dell'utente, per usare la piattaforma è necessario avere un client Python per effettuare le operazioni di encrypting, decrypting dei dati.
+# TheTube: Messaggistica Terminal Criptata End-to-End
+
+Benvenuto in TheTube, la soluzione di messaggistica avanzata per il tuo terminale. La sicurezza è la priorità:
+
+Crittografia Robusta: Messaggi protetti con crittografia RSA end-to-end per una privacy totale.
+Gestione Utenti: Username, public key e hash della private key garantiscono l'identità e l'autenticazione.
+Chat Sicure: Ogni chat è identificata univocamente e le conversazioni sono interamente crittografate per massima protezione. Nessuno saprà nemmeno i tuoi contatti!
+Operazioni Efficiente: Registrazione, login, creazione di nuove chat e messaggi - tutto gestito in modo veloce e sicuro.
+Autenticazione Forte: La private key garantisce l'autenticità e l'integrità dei messaggi.
+Semplice Integrazione: Client Python per operazioni di crittografia e decrittografia senza sforzo.
+Sii padrone della tua privacy su TheTube, dove la comunicazione diventa sicura e confidenziale come dovrebbe essere.
 
 ## Installazione
 Installazione Locale via MySQL Shell
