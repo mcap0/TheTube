@@ -4,7 +4,7 @@ Benvenuto in TheTube, la soluzione di messaggistica criptata per il tuo terminal
 
 - **Crittografia Robusta**: Messaggi protetti con crittografia RSA end-to-end per una privacy totale.
 
-- **Gestione Utenti**: Username, public key e hash della private key garantiscono l'identità e l'autenticazione.
+- **Gestione Utenti**: Username, public key e hash della private key garantiscono un'autenticazione sicura.
 
 - **Chat Sicure**: Ogni chat è identificata univocamente e le conversazioni sono interamente crittografate per massima protezione. Nessuno saprà nemmeno i tuoi contatti!
 
