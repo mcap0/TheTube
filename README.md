@@ -1,6 +1,6 @@
 # TheTube: Messaggistica Criptata End-to-End per Terminale
 
-Benvenuto in TheTube, la soluzione di messaggistica avanzata per il tuo terminale. La sicurezza è la priorità:
+Benvenuto in TheTube, la soluzione di messaggistica criptata per il tuo terminale by matteocapo. La sicurezza è implementata by design:
 
 - **Crittografia Robusta**: Messaggi protetti con crittografia RSA end-to-end per una privacy totale.
 
@@ -10,9 +10,10 @@ Benvenuto in TheTube, la soluzione di messaggistica avanzata per il tuo terminal
 
 - **Operazioni Efficiente**: Registrazione, login, creazione di nuove chat e messaggi - tutto gestito in modo veloce e sicuro.
 
-- **Autenticazione Forte**: La private key garantisce l'autenticità e l'integrità dei messaggi.
+- **Autenticazione Forte**: La private key salvata solo nel tuo computer garantisce l'autenticità e l'integrità dei messaggi.
 
 - **Semplice Integrazione**: Client Python per operazioni di crittografia e decrittografia senza sforzo.
+- 
 Sii padrone della tua privacy su TheTube, dove la comunicazione diventa sicura e confidenziale come dovrebbe essere.
 
 ## Installazione
