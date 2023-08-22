@@ -1,3 +1,7 @@
+## Info
+Si vuole progettare la base di dati necessaria a supportare una piattaforma di messaggistica criptata tramite database relazionale. Le scelte di implementazione sono incentrate sulla sicurezza. La piattaforma e le sue funzioni sono basate sui bisogni dell'utente, per usare la piattaforma è necessario avere un client Python per effettuare le operazioni di encrypting, decrypting dei dati.
+
+## Installazione
 Installazione Locale via MySQL Shell
 ```mysql
 \connect -u root
